@@ -20,12 +20,12 @@ Explicar, de maneira clara e didática, o funcionamento do Pix Automático para 
 
 ## Como visualizar o projeto
 
-1. Abra o arquivo `Projeto_trabalho_Pix_Automatico.html` em um navegador.
+1. Abra o arquivo `index.html` em um navegador.
 2. Ou utilize um servidor local simples, como o VS Code Live Server, se preferir.
 
 ## Estrutura do projeto
 
-- `Projeto_trabalho_Pix_Automatico.html` — página principal com o conteúdo e interações
+- `index.html` — página principal com o conteúdo e interações
 - `README.md` — documentação do projeto
 
 ## Funcionalidades
